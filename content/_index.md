@@ -7,7 +7,7 @@ sections:
   section_id: hero
   content: The NBCU is the new incubator for innovative brands, products and business
     models which will drive growth for Unilever.
-  image: "/images/background.png"
+  image: "/images/background.jpg"
   actions:
   - label: Learn More
     url: "/features"
